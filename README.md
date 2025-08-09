@@ -28,7 +28,7 @@ This project delivers an end-to-end Tableau solution for analyzing **sales perfo
 
 ---
 
-## 2. Bank Loan Performance Dashboard (Power BI / Tableau)
+## 2. Bank Loan Performance Dashboard - Excel
 
 
 ### Overview
