@@ -30,6 +30,7 @@ This project delivers an end-to-end Tableau solution for analyzing **sales perfo
 
 ## 2. Bank Loan Performance Dashboard - Excel
 
+https://github.com/TaranArora/Bank-Loan-Analysis
 
 ### Overview
 This project presents a multi-page dashboard designed to help financial institutions track **loan applications, performance, and risk metrics**. It highlights loan quality, repayment trends, and borrower characteristics.
@@ -53,4 +54,4 @@ This project presents a multi-page dashboard designed to help financial institut
 ### 📬 Contact
 For feedback or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/taran--arora/).
 
--
+---
