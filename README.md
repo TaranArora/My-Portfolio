@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-This repository showcases two real-world style Business Intelligence (BI) projects that demonstrate my skills in data preparation, dashboard design, and analytical storytelling.
+This repository showcases real-world style Data Analysis projects that demonstrate my skills in data preparation, dashboard design, and analytical storytelling.
 
 ---
 
