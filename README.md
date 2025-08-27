@@ -52,6 +52,8 @@ This project presents a multi-page dashboard designed to help financial institut
 ---
 ## 3. Grocery Inventory Analysis & Dashboard
 
+https://github.com/TaranArora/Grocery-Inventory-Analysis
+
 ### Overview  
 The **Grocery Inventory Analysis & Dashboard** is an Excel-based analytics project built on a Kaggle dataset of grocery products, suppliers, and warehouses. It provides actionable insights into inventory management by highlighting reorder needs, stock risks, supplier reliability, and value distribution, all delivered through a one-page interactive dashboard.
 
