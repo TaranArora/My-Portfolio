@@ -50,6 +50,20 @@ This project presents a multi-page dashboard designed to help financial institut
   - Filters for deep-dive analysis and risk assessment.  
 
 ---
+## 3. Grocery Inventory Analysis & Dashboard
+
+### Overview  
+The **Grocery Inventory Analysis & Dashboard** is an Excel-based analytics project built on a Kaggle dataset of grocery products, suppliers, and warehouses. It provides actionable insights into inventory management by highlighting reorder needs, stock risks, supplier reliability, and value distribution, all delivered through a one-page interactive dashboard.
+
+### Key Features  
+- **Reorder Recommendations**: Flag products below reorder thresholds at the Product × Warehouse level.  
+- **Stock Risk Analysis**: Identify deadstock and at-risk items using stock levels and turnover rates.  
+- **ABC Analysis (Pareto)**: Classify items into A/B/C categories and visualize revenue concentration.  
+- **Inventory Valuation**: Quantify cash tied up across categories, suppliers, and warehouses.  
+- **Supplier Performance**: Rank suppliers by value, backorders, and discontinued products.  
+- **Interactive Dashboard**: KPIs and visuals (Pareto, bar, column, and pie charts) for instant insights.
+
+---
 
 ### 📬 Contact
 For feedback or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/taran--arora/).
